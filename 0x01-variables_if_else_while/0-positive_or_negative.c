@@ -16,7 +16,7 @@ int main(void)
 	
 	if (n > 0)
 	{
-	    printf("%d is positive\n", n);	
+	    printf("%d is positive\n", n);
 	}
         else if (n == 0)
 	{
@@ -28,4 +28,4 @@ int main(void)
         }
         
         return (0);
-}	
+}
