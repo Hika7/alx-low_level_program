@@ -1,1 +1,1 @@
-abc123
+7 Pointers array string
